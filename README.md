@@ -1,16 +1,24 @@
-## Hi there 👋
+# Oii, eu sou a Radhaly 🩷✨
 
-<!--
-**V1ckyCodes/V1ckycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Desenvolvedora Front-end em formação  
+💻 Estudando HTML, CSS, JavaScript e criando meus primeiros projetos  
+🌈 Criativa, curiosa, com paixão por design e tecnologia  
+🙏 Movida pela fé e pelo propósito  
+🎧 Fã de K-pop (Stray Kids sempre no coração!)
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou aprendendo:
+![HTML5]
+![CSS3]
+![JavaScript]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Em andamento:
+- Criando meu portfólio
+- Construindo um mini jogo com JavaScript
+- Aprendendo Git e GitHub
+
+## 🌟 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radhaly-victoria-alves-97527722b)
+
+---
+
+🦋 “Começando com coragem, crescendo com propósito.”
