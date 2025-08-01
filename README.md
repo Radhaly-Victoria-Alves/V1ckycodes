@@ -2,9 +2,9 @@
 
 🎓 Desenvolvedora Front-end em formação  
 💻 Estudando HTML, CSS, JavaScript e criando meus primeiros projetos  
-🌈 Criativa, curiosa, com paixão por design e tecnologia  
+🌈 Criativa, curiosa, com paixão por tecnologia  
 🙏 Movida pela fé e pelo propósito  
-🎧 Fã de K-pop (Stray Kids sempre no coração!)
+
 
 ## 🚀 Tecnologias que estou aprendendo:
 ![HTML5]
