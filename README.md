@@ -1,6 +1,6 @@
 # Oii, eu sou a Radhaly Alves🩷✨
 
-🎓 Desenvolvedora Front-end em formação  
+🎓 Desenvolvedora Front-end em formação pela instituição PROA  
 💻 Estudando HTML, CSS, JavaScript e criando meus primeiros projetos  
 🙏 Movida pela fé e pelo propósito  
 
