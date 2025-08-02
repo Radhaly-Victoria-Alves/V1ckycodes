@@ -1,8 +1,7 @@
-# Oii, eu sou a Radhaly 🩷✨
+# Oii, eu sou a Radhaly Alves🩷✨
 
 🎓 Desenvolvedora Front-end em formação  
 💻 Estudando HTML, CSS, JavaScript e criando meus primeiros projetos  
-🌈 Criativa, curiosa, com paixão por tecnologia  
 🙏 Movida pela fé e pelo propósito  
 
 
@@ -12,8 +11,7 @@
 ![JavaScript]
 
 ## 🌱 Em andamento:
-- Criando meu portfólio
-- Construindo um mini jogo com JavaScript
+
 - Aprendendo Git e GitHub
 
 ## 🌟 Vamos nos conectar?
